@@ -1,2 +1,2 @@
-# Introducao pratica ao Typescript
+# Introducao prática ao Typescript
 Aula TypeScript DIO
